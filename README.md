@@ -1,5 +1,7 @@
 # React-unit-and-integration-testing
 
+Este repo fue pensando para aprender a desarrollar tests unitarios y de integración en React.
+
 ## Introducción 
 
 ### Características de las pruebas
@@ -41,7 +43,7 @@ Observar el comportamiento resultante.
 - Son los resultados esperados
 - Ejemplo: que algo cambie, que algo incremente o que no suceda nada
 
-\
+
 
 
 
