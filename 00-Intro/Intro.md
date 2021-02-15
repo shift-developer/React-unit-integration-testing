@@ -1,3 +1,5 @@
+[Volver al Readme principal](../README.md)
+
 # Introducción al testing
 
 ## Características de las pruebas
@@ -38,3 +40,5 @@ Aplicamos acciones o estímulos al sujeto de pruebas.
 Observar el comportamiento resultante.
 - Son los resultados esperados
 - Ejemplo: que algo cambie, que algo incremente o que no suceda nada
+
+
