@@ -1,6 +1,6 @@
 # React-unit-and-integration-testing
 
-## Tipos de pruebas
+## Introducción 
 
 ### Características de las pruebas
 1. Fáciles  de escribir
@@ -15,16 +15,19 @@ Enfocadas en únicas pequeñas piezas. Por ejemplo probar un solo componente.
 #### Integración 
 Enfocada en varias piezas. Por ejemplo probar todo un grupo de componentes trabajando en conjunto.
 
-## AAA (Arrange, Act, Accert)
 
-### Arrange (Arreglar)
+
+
+### AAA (Arrange, Act, Accert)
+
+#### Arrange (Arreglar)
 
 Establecemos el estado inicial. Conocido como el "sujeto a probar".
  - Inicializamos variables
  - Importaciones necesarias
  
  
-### Act (Actuar)
+#### Act (Actuar)
  
 Aplicamos acciones o estímulos al sujeto de pruebas.
 - Llamar métodos 
@@ -32,7 +35,7 @@ Aplicamos acciones o estímulos al sujeto de pruebas.
 - Realizar acciones sobre el paso anterior
 
 
-### Assert (Afirmaciones)
+#### Assert (Afirmaciones)
 
 Observar el comportamiento resultante.
 - Son los resultados esperados
