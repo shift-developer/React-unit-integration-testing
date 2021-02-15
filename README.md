@@ -41,9 +41,7 @@ Observar el comportamiento resultante.
 - Son los resultados esperados
 - Ejemplo: que algo cambie, que algo incremente o que no suceda nada
 
-
-
-
+\
 
 
 
