@@ -42,3 +42,4 @@ Observar el comportamiento resultante.
 - Ejemplo: que algo cambie, que algo incremente o que no suceda nada
 
 
+[Avanzar a la primera prueba o test](../01-Counter-App/PrimeraPrueba.md)
